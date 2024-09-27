@@ -1,6 +1,8 @@
-![MasterHead] (https://i.pinimg.com/originals/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg)
+
 <h1 align="center">Hi there 👋, I'm Olive Banzon</h1>
 <h3 align="center">A passionate IT Security in Philippines</h3>
+(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/cQEXqLRxnMd7zrYz9")
+
 
 I’m a former Information Risk Management Analyst with 1.5 year experience in cybersecurity.Focusing on enhancing security awarness
 and Implementing robust security measures.
