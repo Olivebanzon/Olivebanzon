@@ -1,48 +1,25 @@
-## Hi there Welcome to My Portfolio! ☺️
+![MasterHead] (https://i.pinimg.com/originals/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg)
+<h1 align="center">Hi there 👋, I'm Olive Banzon</h1>
+<h3 align="center">A passionate IT Security in Philippines</h3>
 
-I’m a former Information Risk Management Analyst with 1.5 year experience in cybersecurity, risk assessment,and incident response.
-I also have hands-on experience from my internship as a Security Information Analyst. 
-
-## Career Objectives
-As I have developed my expertise, I am now eager to transition into more operational roles to further enhance my career.
-
-Below is an overview of my experience and key projects.
-
-## About me
-As an Information Risk Management Analyst at Manulife Business Processing Services, I have honed my skills in:
-
-- **Cybersecurity Research**: Conducting research to stay updated with the latest security threats and trends.
-- **Risk Assessments**: Managing and executing risk assessments for various security controls, including firewalls, Zscaler exemptions, and network security.
-- **Fraud Prevention**: Reviewing customer account transactions to safeguard against fraud.
-- **Audit and Compliance**: Conducting weekly audits of changes in production and maintaining standard operating procedures and guidelines.
-- **Incident Response**: Analyzing IP traffic patterns and other online activities to detect anomalies and assess compromised information.
-
-## Role
-
-### 1. **Firewall Security Assessment**
-- **Description**: Managed and conducted risk assessments for firewall configurations to ensure compliance with security standards.
-
-### 2. **Fraud Detection Review**
-- **Description**: Conducted reviews of customer account transactions to identify and mitigate fraudulent activities.
-
-### 3. **Production Change Audit**
-- **Description**: Performed weekly audits of production changes implemented by developers to ensure compliance with security policies.
-
-### 4. **PlayBooks**
-- **Description**: Maintained and updated standard operating procedures, guidelines and run books for Information Risk Management (IRM),
-                   including Firewall Review Guidelines
-                
-
+I’m a former Information Risk Management Analyst with 1.5 year experience in cybersecurity.Focusing on enhancing security awarness
+and Implementing robust security measures.
 
 ## Skills
 
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
-- **Tools & Technologies**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
-- **Documentation**: Standard Operating Procedures (SOPs), guidelines, run books.
+- **Exposed in the Areas**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
+- **Compliance Regulations & Framework**: NIST CSF, ISO 27001, GDPR, PCI DSS, HIPAA, IOC
 
-## Contact
+## Experience
+Know about my experience [https://drive.google.com/file/d/1VwdOt5W8hmYHA3jXRuJizBbFO0kWDrBl/view?usp=sharing](https://drive.google.com/file/d/1VwdOt5W8hmYHA3jXRuJizBbFO0kWDrBl/view?usp=sharing)
 
-Feel free to connect with me on LinkedIn. Here's my profile <a href="https://www.linkedin.com/in/olivebanzon/" target="_blank">
+## Learning
+I’m currently learning **Cybersecurity Professional Certification**
+
+## Contacts
+
+Feel free to connect with me on LinkedIn. <a href="https://www.linkedin.com/in/olivebanzon/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
 </a>
 
