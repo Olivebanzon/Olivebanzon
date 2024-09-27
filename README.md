@@ -10,7 +10,7 @@ and Implementing robust security measures.
 
 ## Skills 
 
-<img align="right" alt="" width="130" src="https://github.com/Olivebanzon/Olivebanzon/blob/a108e0febfb0c843fec29c194ebcb1d04bfaa3bb/Screenshot%202024-09-28%20at%202.00.52%20AM.png" />
+<img align="right" alt="" width="100" src="https://github.com/Olivebanzon/Olivebanzon/blob/a108e0febfb0c843fec29c194ebcb1d04bfaa3bb/Screenshot%202024-09-28%20at%202.00.52%20AM.png" />
 
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
 - **Exposed in the Areas**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
