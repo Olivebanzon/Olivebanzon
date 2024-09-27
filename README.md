@@ -5,8 +5,8 @@
 <h1 align="center">Hi there 👋, I'm Olive Banzon</h1>
 <h3 align="center">A passionate IT Security in Philippines</h3>
 
-I’m a former Information Risk Management Analyst with 1.5 year experience in cybersecurity.Focusing on enhancing security awarness
-and Implementing robust security measures.
+
+I’m a former Information Risk Management Analyst with 1.5 years of experience in cybersecurity, focusing on enhancing security awareness and implementing robust security measures.
 
 ## Skills 
 
