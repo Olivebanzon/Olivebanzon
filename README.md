@@ -17,7 +17,7 @@ I’m a former Information Risk Management Analyst with 1.5 years of experience 
 - **Compliance Regulations & Framework**: NIST CSF, ISO 27001, GDPR, PCI DSS, HIPAA, IOC
 
 ## Experience
-Know about my experience [https://drive.google.com/file/d/1VwdOt5W8hmYHA3jXRuJizBbFO0kWDrBl/view?usp=sharing](https://drive.google.com/file/d/1VwdOt5W8hmYHA3jXRuJizBbFO0kWDrBl/view?usp=sharing)
+Know about my experience https://drive.google.com/file/d/13dGj3feyx2DtPceRhHhv8IffuaY8kh-s/view?usp=sharing
 
 ## Learning
 I’m currently learning **Cybersecurity Professional Certification**
