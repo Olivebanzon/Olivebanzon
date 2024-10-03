@@ -22,6 +22,11 @@ Know about my experience https://drive.google.com/file/d/13dGj3feyx2DtPceRhHhv8I
 ## Learning
 I’m currently learning **Cybersecurity Professional Certification**
 
+## Hands-on Labs
+Check my repositories where you can see all my hands-on labs activities
+- **GoogleCybersecurity_SQL_HandsOnLab** -   Applying filter to SQL queries to investigate security incidents 
+- **GoogleCybersecurity_Linux_HandsOnLab** - Using bash command line where it covers file permissions that control access to files and directories
+
 ## Contacts
 
 Feel free to connect with me on LinkedIn. <a href="https://www.linkedin.com/in/olivebanzon/" target="_blank">
