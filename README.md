@@ -7,9 +7,6 @@
 Hi there 🖐🏻 , I’m a former Information Risk Management Analyst with 1.5 years of experience in cybersecurity, focusing on enhancing security awareness and implementing robust security measures.
 
 ## Skills 
-
-<img align="right" alt="" width="150" height = "185" src="https://github.com/Olivebanzon/photo/blob/d96f26e74f77771cfaca3533784bb9718ad08885/MyIcon.png" />
-
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
 - **Exposed and monitor in the Areas**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
 - **Compliance Regulations & Framework**: NIST (CSF,SP 800-37,SP 800-30,SP 800-180), ISO 27001, GDPR, PCI DSS, HIPAA, IOC
