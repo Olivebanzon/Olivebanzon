@@ -1,12 +1,10 @@
 <p align="center"> 
-<img src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif" alt="MasterHead" /> 
+<img src="https://github.com/Olivebanzon/photo/blob/fc517b4989739e63bda5255f08199de03b59e82e/Brown%20Photo%20Personal%20Facebook%20Cover.png" alt="MasterHead" /> 
 </p>
 
-<h1 align="center">Hi there 👋, I'm Olive Banzon</h1>
-<h3 align="center">A passionate IT Security in Philippines</h3>
+## About me:
 
-
-I’m a former Information Risk Management Analyst with 1.5 years of experience in cybersecurity, focusing on enhancing security awareness and implementing robust security measures.
+Hi there 🖐🏻 , I’m a former Information Risk Management Analyst with 1.5 years of experience in cybersecurity, focusing on enhancing security awareness and implementing robust security measures.
 
 ## Skills 
 
