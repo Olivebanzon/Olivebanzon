@@ -8,7 +8,7 @@ Hi there 🖐🏻 , I’m a former Information Risk Management Analyst with 1.5 
 
 ## Skills 
 
-<img align="right" alt="" width="110" src="https://github.com/Olivebanzon/Olivebanzon/blob/a108e0febfb0c843fec29c194ebcb1d04bfaa3bb/Screenshot%202024-09-28%20at%202.00.52%20AM.png" />
+<img align="right" alt="" width="200" height = "185" src="https://github.com/Olivebanzon/photo/blob/d96f26e74f77771cfaca3533784bb9718ad08885/MyIcon.png" />
 
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
 - **Exposed and monitor in the Areas**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
