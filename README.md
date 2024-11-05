@@ -12,8 +12,6 @@ Hi there 🖐🏻 , I’m currently working as a Security Operations Analyst Tie
 - **Compliance Regulations & Framework**: NIST (CSF,SP 800-37,SP 800-30,SP 800-180), ISO 27001, GDPR, PCI DSS, HIPAA, IOC
 - **Technical Skills**: Bash command line and SQL
 
-## Experience
-Know about my experience https://drive.google.com/file/d/13dGj3feyx2DtPceRhHhv8IffuaY8kh-s/view?usp=sharing
 
 ## Learning
 I’m currently learning **Cybersecurity Professional Certification**
