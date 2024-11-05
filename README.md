@@ -4,7 +4,7 @@
 
 ## About me:
 
-Hi there 🖐🏻 , I’m currently working as a **Security Operations Analyst Tier 1**. With 1.5 years of experience as an Information Risk Management Analyst, I have developed expertise in enhancing security awareness and implementing robust security measures.
+Hi there 🖐🏻 , I’m currently working as a **Security Operations Centre Analyst Tier 1**. With 1.5 years of experience as an Information Risk Management Analyst, I have developed expertise in enhancing security awareness and implementing robust security measures.
 
 ## Skills 
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
