@@ -17,15 +17,16 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 - **Threat Detection**: Threat Analysis, IOC Analysis, Phishing & Malware Investigation. 
 - **Endpoint Security**: Microsoft Defender for Endpoint, Trend Micro Vision One, Sophos Central
 - **Network & Cloud Security**: Zscaler, Check Point, FortiGate, Microsoft Defender for Cloud
-- **Threat Intelligence & OSINT:**: VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN, AlienVault OTX, Cisco Talos and others
-- **Threat Intelligence & OSINT:**: Risk Assessment, Security Controls, NIST, ISO 27001, PCI DSS, GDPR, HIPAA
+- **Threat Intelligence & OSINT**: VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN, AlienVault OTX, Cisco Talos and others
+- **Information Security**: Risk Assessment, Security Controls, NIST, ISO 27001, PCI DSS, GDPR, HIPAA
 
 ## 🔧 Tools & Technologies
 **SIEM & Security Monitoring**: Microsoft Sentinel •  SEKOIA.IO<br>
 **Endpoint Security & EDR**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central<br>
 **Endpoint & Device Management**: Microsoft Intune • Azure Update Manager<br>
-
-
+**Cloud Security**: Microsoft Defender for Cloud<br>
+**Network & Web Security**: Zscaler • Check Point Firewall • Fortinet FortiGate<br>
+**Network & Web Security**: Mimecast<br>
 
 ## Hands-on Labs
 Check my repositories where you can see all my hands-on labs activities
