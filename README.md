@@ -20,8 +20,12 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 - **Threat Intelligence & OSINT:**: VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN, AlienVault OTX, Cisco Talos and others
 - **Threat Intelligence & OSINT:**: Risk Assessment, Security Controls, NIST, ISO 27001, PCI DSS, GDPR, HIPAA
 
-## Learning
-I’m currently learning **Cybersecurity Professional Certification**
+## 🔧 Tools & Technologies
+**SIEM & Security Monitoring:**: Microsoft Sentinel • SEKOIA.IO
+**Endpoint Security & EDR:**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central
+**Endpoint & Device Management:**: Microsoft Intune • Azure Update Manager
+
+
 
 ## Hands-on Labs
 Check my repositories where you can see all my hands-on labs activities
