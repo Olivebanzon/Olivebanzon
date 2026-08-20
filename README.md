@@ -22,11 +22,11 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 
 ## 🔧 Tools & Technologies
 - **SIEM & Security Monitoring**: Microsoft Sentinel •  SEKOIA.IO<br>
-**Endpoint Security & EDR**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central<br>
-**Endpoint & Device Management**: Microsoft Intune • Azure Update Manager<br>
-**Cloud Security**: Microsoft Defender for Cloud<br>
-**Network & Web Security**: Zscaler • Check Point Firewall • Fortinet FortiGate<br>
-**Network & Web Security**: Mimecast<br>
+- **Endpoint Security & EDR**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central<br>
+- **Endpoint & Device Management**: Microsoft Intune • Azure Update Manager<br>
+- **Cloud Security**: Microsoft Defender for Cloud<br>
+- **Network & Web Security**: Zscaler • Check Point Firewall • Fortinet FortiGate<br>
+- **Network & Web Security**: Mimecast<br>
 
 ## Hands-on Labs
 Check my repositories where you can see all my hands-on labs activities
