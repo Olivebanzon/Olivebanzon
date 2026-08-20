@@ -22,7 +22,9 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 
 ## 🔧 Tools & Technologies
 **SIEM & Security Monitoring:**: Microsoft Sentinel and SEKOIA.IO
+
 **Endpoint Security & EDR:**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central
+
 **Endpoint & Device Management:**: Microsoft Intune • Azure Update Manager
 
 
