@@ -12,7 +12,7 @@ My current work involves monitoring and triaging security alerts, investigating 
 
 Before moving into SOC operations, I worked as an **Information Risk Management Analyst**, where I gained experience in security risk assessments, control reviews, firewall-related security requests, network security, and compliance.
 
-## Skills 
+##🛡️**Cybersecurity Skills**
 - **Cybersecurity**: Threat analysis, vulnerability assessment, risk management.
 - **Exposed and monitor in the Areas**: Firewalls, Zscaler, Network Security, Vermilion Monitoring Control.
 - **Compliance Regulations & Framework**: NIST (CSF,SP 800-37,SP 800-30,SP 800-180), ISO 27001, GDPR, PCI DSS, HIPAA, IOC
