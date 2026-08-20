@@ -21,7 +21,7 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 - **Information Security**: Risk Assessment, Security Controls, NIST, ISO 27001, PCI DSS, GDPR, HIPAA
 
 ## 🔧 Tools & Technologies
-**SIEM & Security Monitoring**: Microsoft Sentinel •  SEKOIA.IO<br>
+- **SIEM & Security Monitoring**: Microsoft Sentinel •  SEKOIA.IO<br>
 **Endpoint Security & EDR**: Microsoft Defender for Endpoint • CrowdStrike • Trend Micro Vision One • Sophos Central<br>
 **Endpoint & Device Management**: Microsoft Intune • Azure Update Manager<br>
 **Cloud Security**: Microsoft Defender for Cloud<br>
