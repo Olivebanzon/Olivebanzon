@@ -35,7 +35,8 @@ I use this space to document my cybersecurity learning labs, investigation exerc
 
 More cybersecurity labs and projects will be added as I continue building my practical skills in security operations, threat detection, and incident investigation.
 
-## Contacts
+## 📫 Contacts
+I'm always happy to connect with fellow cybersecurity professionals, security enthusiasts, and anyone interested in the areas and skills I work with. Always open to learning from others, sharing knowledge, and connecting with people in the cybersecurity community.
 
 Feel free to connect with me on LinkedIn. <a href="https://www.linkedin.com/in/olivebanzon/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
