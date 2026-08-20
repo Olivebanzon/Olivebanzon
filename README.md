@@ -13,11 +13,12 @@ My current work involves monitoring and triaging security alerts, investigating 
 Before moving into SOC operations, I worked as an **Information Risk Management Analyst**, where I gained experience in security risk assessments, control reviews, firewall-related security requests, network security, and compliance.
 
 ## 🛡️ Cybersecurity Skills
-- **Security Operations**:SOC Monitoring, Security Alert Triage, Incident Investigation.   
-- **Threat Detection**:Threat Analysis, IOC Analysis, Phishing & Malware Investigation.
-- **Compliance Regulations & Framework**: NIST (CSF,SP 800-37,SP 800-30,SP 800-180), ISO 27001, GDPR, PCI DSS, HIPAA, IOC
-- **Technical Skills**: Bash command line and SQL
-
+- **Security Operations**: SOC Monitoring, Security Alert Triage, Incident Investigation.   
+- **Threat Detection**: Threat Analysis, IOC Analysis, Phishing & Malware Investigation. 
+- **Endpoint Security**: Microsoft Defender for Endpoint, Trend Micro Vision One, Sophos Central
+- **Network & Cloud Security**: Zscaler, Check Point, FortiGate, Microsoft Defender for Cloud
+- **Threat Intelligence & OSINT:**: VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN, AlienVault OTX, Cisco Talos and others
+- **Threat Intelligence & OSINT:**: Risk Assessment, Security Controls, NIST, ISO 27001, PCI DSS, GDPR, HIPAA
 
 ## Learning
 I’m currently learning **Cybersecurity Professional Certification**
