@@ -28,10 +28,12 @@ Before moving into SOC operations, I worked as an **Information Risk Management 
 - **Network & Web Security**: Zscaler • Check Point Firewall • Fortinet FortiGate<br>
 - **Network & Web Security**: Mimecast<br>
 
-## Hands-on Labs
-Check my repositories where you can see all my hands-on labs activities
-- **GoogleCybersecurity_SQL_HandsOnLab** -   Applying filter to SQL queries to investigate security incidents 
-- **GoogleCybersecurity_Linux_HandsOnLab** - Using bash command line where it covers file permissions that control access to files and directories
+## 🧪 Hands-on Labs & Projects
+I use this space to document my cybersecurity learning labs, investigation exercises, and practical projects related to SOC operations and security analysis.
+- **GoogleCybersecurity_SQL_HandsOnLab** -   Applying SQL filters to investigate and identify suspicious activity in security-related data.
+- **GoogleCybersecurity_Linux_HandsOnLab** - Using Bash commands and Linux file permissions to understand and manage access to files and directories.
+
+More cybersecurity labs and projects will be added as I continue building my practical skills in security operations, threat detection, and incident investigation.
 
 ## Contacts
 
